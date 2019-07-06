@@ -1,0 +1,43 @@
+.section-form-imc {
+    padding: auto;
+    margin: auto;
+    margin-top: 5rem;
+    background-color: transparent;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.section-form-imc label{
+    border-radius: 10px;
+}
+
+.form-imc button {
+	font-size: 12px;
+	text-align: center;
+	width: 12rem;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.form-imc button:hover {
+    opacity: 0.8;
+    cursor: pointer;
+}
+
+.form-simple-imc input {
+    margin-top: 10px;
+	width: 12rem;
+    padding: 10px;
+    border: 0.1rem solid black;
+    border-radius: 0rem;
+    font-family: 'Ubuntu', sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+    border-radius: 10px;
+}
+
+.byrz a{
+  color: #546e7a;
+  font-size: 0.6rem;
+  font-family: 'Ubuntu',sans-serif;
+}
